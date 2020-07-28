@@ -1,6 +1,4 @@
-package ru.synergyIT.service.exeption;
-
-import ru.synergyIT.service.CarType;
+package ru.synergyIT.service;
 
 public class Car {
 

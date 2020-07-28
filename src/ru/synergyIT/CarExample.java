@@ -1,7 +1,7 @@
 package ru.synergyIT;
 
 import ru.synergyIT.service.CarType;
-import ru.synergyIT.service.exeption.Car;
+import ru.synergyIT.service.Car;
 import ru.synergyIT.service.exeption.WrongSizeExeption;
 import ru.synergyIT.service.exeption.WrongSpeedExeption;
 import ru.synergyIT.service.CarNumberEnums.Number;
